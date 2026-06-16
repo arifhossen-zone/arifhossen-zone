@@ -24,7 +24,8 @@ An aspiring DevOps Engineer on a mission to master Cloud Computing, Automation, 
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=arifhossen-zone&show_icons=true&theme=tokyonight&count_private=true" alt="Arif's GitHub Stats" height="160px" /><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=arifhossen-zone&show_icons=true&theme=tokyonight&count_private=true" alt="Arif's GitHub Stats" height="160px" />
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arifhossen-zone&theme=tokyonight" alt="Arif's GitHub Streak" height="160px" />
 </p>
 
